@@ -82,7 +82,6 @@ node_modules/url/url.js(399,5): error TS2322: Type 'string' is not assignable to
 node_modules/url/url.js(403,7): error TS2322: Type 'string' is not assignable to type 'boolean'.
 node_modules/url/url.js(421,5): error TS2322: Type 'string' is not assignable to type 'boolean'.
 node_modules/url/url.js(424,5): error TS2322: Type '""' is not assignable to type 'boolean'.
-node_modules/url/url.js(430,49): error TS7006: Parameter 'match' implicitly has an 'any' type.
 node_modules/url/url.js(438,21): error TS7006: Parameter 'source' implicitly has an 'any' type.
 node_modules/url/url.js(438,29): error TS7006: Parameter 'relative' implicitly has an 'any' type.
 node_modules/url/url.js(442,34): error TS7006: Parameter 'relative' implicitly has an 'any' type.
@@ -103,6 +102,20 @@ node_modules/url/util.js(4,22): error TS7006: Parameter 'arg' implicitly has an 
 node_modules/url/util.js(7,22): error TS7006: Parameter 'arg' implicitly has an 'any' type.
 node_modules/url/util.js(10,20): error TS7006: Parameter 'arg' implicitly has an 'any' type.
 node_modules/url/util.js(13,31): error TS7006: Parameter 'arg' implicitly has an 'any' type.
+src/index.js(7,7): error TS2322: Type '{ render(): Element; }' is not assignable to type 'ComponentOptions<Vue, DefaultData<Vue>, DefaultMethods<Vue>, DefaultComputed, PropsDefinition<Rec...'.
+  Types of property 'render' are incompatible.
+    Type '() => Element' is not assignable to type '((createElement: CreateElement, hack: RenderContext<Record<string, any>>) => VNode) | undefined'.
+      Type '() => Element' is not assignable to type '(createElement: CreateElement, hack: RenderContext<Record<string, any>>) => VNode'.
+        Type 'Element' is not assignable to type 'VNode'.
+          Types of property 'key' are incompatible.
+            Type 'string | number | null' is not assignable to type 'string | number | undefined'.
+              Type 'null' is not assignable to type 'string | number | undefined'.
+src/index.js(13,27): error TS2345: Argument of type '{ render(h: CreateElement): Element; }' is not assignable to parameter of type 'ComponentOptions<Vue, DefaultData<Vue>, DefaultMethods<Vue>, DefaultComputed, PropsDefinition<Rec...'.
+  Type '{ render(h: CreateElement): Element; }' is not assignable to type 'ComponentOptions<Vue, DefaultData<Vue>, DefaultMethods<Vue>, DefaultComputed, PropsDefinition<Rec...'.
+    Types of property 'render' are incompatible.
+      Type '(h: CreateElement) => Element' is not assignable to type '((createElement: CreateElement, hack: RenderContext<Record<string, any>>) => VNode) | undefined'.
+        Type '(h: CreateElement) => Element' is not assignable to type '(createElement: CreateElement, hack: RenderContext<Record<string, any>>) => VNode'.
+          Type 'Element' is not assignable to type 'VNode'.
 /home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/typescript/lib/lib.dom.d.ts
 /home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/typescript/lib/lib.es2016.d.ts
 /home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/typescript/lib/lib.es2016.array.include.d.ts
@@ -122,6 +135,10 @@ node_modules/url/util.js(13,31): error TS7006: Parameter 'arg' implicitly has an
 /home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/plugin.d.ts
 /home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/vue.d.ts
 /home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/index.d.ts
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/react/global.d.ts
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/csstype/index.d.ts
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/react/index.d.ts
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/storybook__addon-links/index.d.ts
 /home/joma/entwicklung/nodews/ts-js-include-order-issue/src/index.js
 /home/joma/entwicklung/nodews/ts-js-include-order-issue/types/vue-ext-shim.d.ts
 /home/joma/entwicklung/nodews/ts-js-include-order-issue/types/vue-jsx-shim.d.ts

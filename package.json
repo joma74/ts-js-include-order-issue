@@ -8,11 +8,13 @@
   "private": false,
   "scripts": {
     "tsc:validate":
-      "/bin/bash -c 'node_modules/typescript/bin/tsc --project ./jsconfig.json --noEmit true",
+      "node_modules/typescript/bin/tsc --project ./jsconfig.json --noEmit true --traceResolution true",
+    "tsc:listFiles":
+      "node_modules/typescript/bin/tsc --project ./jsconfig.json --noEmit true --listFiles",
     "tsc:validate1":
       "/bin/bash -c 'node_modules/typescript/bin/tsc --project ./jsconfig.json --noEmit true --traceResolution true | tee target/tsc.trace1.log; echo $?'",
     "tsc:listFiles1":
-      "node_modules/typescript/bin/tsc --project ./jsconfig.json --noEmit true --listFiles | tee target/tsc.list1.log; echo $?'",
+      "/bin/bash -c 'node_modules/typescript/bin/tsc --project ./jsconfig.json --noEmit true --listFiles | tee target/tsc.list1.log; echo $?'",
     "tsc:validate2":
       "/bin/bash -c 'node_modules/typescript/bin/tsc --project ./jsconfig.json --noEmit true --traceResolution true | tee target/tsc.trace2.log; echo $?'",
     "tsc:listFiles2":
@@ -22,7 +24,7 @@
     "@types/http-proxy": "^1.16.2",
     "@types/storybook__addon-links": "^3.3.0",
     "http-proxy": "^1.17.0",
-    "typescript": "^2.9.1",
+    "typescript": "^3.0.0-dev.20180601",
     "url": "^0.11.0"
   },
   "dependencies": {
