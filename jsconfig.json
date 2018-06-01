@@ -13,8 +13,8 @@
     "jsx": "preserve"
   },
   "exclude": ["dist", "node_modules", "target"],
-  //"include": ["src/**/*", "types/**/*"],
-  "include": ["types/**/*", "src/**/*"],
+  "include": ["src/**/*", "types/**/*"],
+  //"include": ["types/**/*", "src/**/*"],
   "typeAcquisition": {
     "enable": true
   }
