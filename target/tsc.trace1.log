@@ -1,0 +1,771 @@
+======== Resolving module 'vue' from '/home/joma/entwicklung/nodews/ts-js-include-order-issue/types/vue-ext-shim.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to '/home/joma/entwicklung/nodews/ts-js-include-order-issue', using this value to resolve non-relative module name 'vue'.
+Resolving module name 'vue' relative to base url '/home/joma/entwicklung/nodews/ts-js-include-order-issue' - '/home/joma/entwicklung/nodews/ts-js-include-order-issue/vue'.
+Loading module as file / folder, candidate module location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/vue', target file type 'TypeScript'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/vue.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/vue.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/vue.d.ts' does not exist.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/vue' does not exist, skipping all lookups in it.
+Loading module 'vue' from 'node_modules' folder, target file type 'TypeScript'.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/types/node_modules' does not exist, skipping all lookups in it.
+'package.json' has 'typings' field 'types/index.d.ts' that references '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/index.d.ts'.
+Found 'package.json' at '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/package.json'. Package ID is 'vue/types/index.d.ts@2.5.16'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue.d.ts' does not exist.
+'package.json' has 'typings' field 'types/index.d.ts' that references '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/index.d.ts'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/index.d.ts', result '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/index.d.ts'.
+======== Module name 'vue' was successfully resolved to '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/index.d.ts'. ========
+======== Resolving module './vue' from '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/index.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module as file / folder, candidate module location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/vue', target file type 'TypeScript'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/vue.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/vue.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/vue.d.ts' exist - use it as a name resolution result.
+Found 'package.json' at '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/package.json'. Package ID is 'vue/types/vue.d.ts@2.5.16'.
+======== Module name './vue' was successfully resolved to '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/vue.d.ts'. ========
+======== Resolving module './options' from '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/index.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module as file / folder, candidate module location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/options', target file type 'TypeScript'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/options.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/options.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/options.d.ts' exist - use it as a name resolution result.
+Found 'package.json' at '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/package.json'. Package ID is 'vue/types/options.d.ts@2.5.16'.
+======== Module name './options' was successfully resolved to '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/options.d.ts'. ========
+======== Resolving module './plugin' from '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/index.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module as file / folder, candidate module location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/plugin', target file type 'TypeScript'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/plugin.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/plugin.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/plugin.d.ts' exist - use it as a name resolution result.
+Found 'package.json' at '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/package.json'. Package ID is 'vue/types/plugin.d.ts@2.5.16'.
+======== Module name './plugin' was successfully resolved to '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/plugin.d.ts'. ========
+======== Resolving module './vnode' from '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/index.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module as file / folder, candidate module location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/vnode', target file type 'TypeScript'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/vnode.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/vnode.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/vnode.d.ts' exist - use it as a name resolution result.
+Found 'package.json' at '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/package.json'. Package ID is 'vue/types/vnode.d.ts@2.5.16'.
+======== Module name './vnode' was successfully resolved to '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/vnode.d.ts'. ========
+======== Resolving module './options' from '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/vue.d.ts'. ========
+Resolution for module './options' was found in cache from location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types'.
+======== Module name './options' was successfully resolved to '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/options.d.ts'. ========
+======== Resolving module './vnode' from '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/vue.d.ts'. ========
+Resolution for module './vnode' was found in cache from location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types'.
+======== Module name './vnode' was successfully resolved to '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/vnode.d.ts'. ========
+======== Resolving module './plugin' from '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/vue.d.ts'. ========
+Resolution for module './plugin' was found in cache from location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types'.
+======== Module name './plugin' was successfully resolved to '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/plugin.d.ts'. ========
+======== Resolving module './vue' from '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/options.d.ts'. ========
+Resolution for module './vue' was found in cache from location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types'.
+======== Module name './vue' was successfully resolved to '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/vue.d.ts'. ========
+======== Resolving module './vnode' from '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/options.d.ts'. ========
+Resolution for module './vnode' was found in cache from location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types'.
+======== Module name './vnode' was successfully resolved to '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/vnode.d.ts'. ========
+======== Resolving module './vue' from '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/vnode.d.ts'. ========
+Resolution for module './vue' was found in cache from location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types'.
+======== Module name './vue' was successfully resolved to '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/vue.d.ts'. ========
+======== Resolving module './vue' from '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/plugin.d.ts'. ========
+Resolution for module './vue' was found in cache from location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types'.
+======== Module name './vue' was successfully resolved to '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/vue.d.ts'. ========
+======== Resolving module 'vue' from '/home/joma/entwicklung/nodews/ts-js-include-order-issue/types/vue-jsx-shim.d.ts'. ========
+Resolution for module 'vue' was found in cache from location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/types'.
+======== Module name 'vue' was successfully resolved to '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/index.d.ts'. ========
+======== Resolving module 'vue' from '/home/joma/entwicklung/nodews/ts-js-include-order-issue/src/index.js'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to '/home/joma/entwicklung/nodews/ts-js-include-order-issue', using this value to resolve non-relative module name 'vue'.
+Resolving module name 'vue' relative to base url '/home/joma/entwicklung/nodews/ts-js-include-order-issue' - '/home/joma/entwicklung/nodews/ts-js-include-order-issue/vue'.
+Loading module as file / folder, candidate module location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/vue', target file type 'TypeScript'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/vue.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/vue.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/vue.d.ts' does not exist.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/vue' does not exist, skipping all lookups in it.
+Loading module 'vue' from 'node_modules' folder, target file type 'TypeScript'.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/src/node_modules' does not exist, skipping all lookups in it.
+Resolution for module 'vue' was found in cache from location '/home/joma/entwicklung/nodews/ts-js-include-order-issue'.
+Resolving real path for '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/index.d.ts', result '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/index.d.ts'.
+======== Module name 'vue' was successfully resolved to '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/index.d.ts'. ========
+======== Resolving module '@storybook/addon-links' from '/home/joma/entwicklung/nodews/ts-js-include-order-issue/src/index.js'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to '/home/joma/entwicklung/nodews/ts-js-include-order-issue', using this value to resolve non-relative module name '@storybook/addon-links'.
+Resolving module name '@storybook/addon-links' relative to base url '/home/joma/entwicklung/nodews/ts-js-include-order-issue' - '/home/joma/entwicklung/nodews/ts-js-include-order-issue/@storybook/addon-links'.
+Loading module as file / folder, candidate module location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/@storybook/addon-links', target file type 'TypeScript'.
+Loading module '@storybook/addon-links' from 'node_modules' folder, target file type 'TypeScript'.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/src/node_modules' does not exist, skipping all lookups in it.
+Scoped package detected, looking in 'storybook__addon-links'
+Scoped package detected, looking in 'storybook__addon-links'
+'package.json' does not have a 'typings' field.
+'package.json' does not have a 'types' field.
+'package.json' has 'main' field '' that references '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/storybook__addon-links'.
+Found 'package.json' at '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/storybook__addon-links/package.json'. Package ID is '@types/storybook__addon-links/index.d.ts@3.3.0'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/storybook__addon-links.d.ts' does not exist.
+'package.json' does not have a 'typings' field.
+'package.json' does not have a 'types' field.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/storybook__addon-links/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/storybook__addon-links/index.d.ts', result '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/storybook__addon-links/index.d.ts'.
+======== Module name '@storybook/addon-links' was successfully resolved to '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/storybook__addon-links/index.d.ts'. ========
+======== Resolving module 'react' from '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/storybook__addon-links/index.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to '/home/joma/entwicklung/nodews/ts-js-include-order-issue', using this value to resolve non-relative module name 'react'.
+Resolving module name 'react' relative to base url '/home/joma/entwicklung/nodews/ts-js-include-order-issue' - '/home/joma/entwicklung/nodews/ts-js-include-order-issue/react'.
+Loading module as file / folder, candidate module location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/react', target file type 'TypeScript'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/react.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/react.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/react.d.ts' does not exist.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/react' does not exist, skipping all lookups in it.
+Loading module 'react' from 'node_modules' folder, target file type 'TypeScript'.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/storybook__addon-links/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node_modules' does not exist, skipping all lookups in it.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/react.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/react.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/react.d.ts' does not exist.
+'package.json' does not have a 'typings' field.
+'package.json' does not have a 'types' field.
+'package.json' has 'main' field '' that references '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/react'.
+Found 'package.json' at '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/react/package.json'. Package ID is '@types/react/index.d.ts@16.3.16'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/react.d.ts' does not exist.
+'package.json' does not have a 'typings' field.
+'package.json' does not have a 'types' field.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/react/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/react/index.d.ts', result '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/react/index.d.ts'.
+======== Module name 'react' was successfully resolved to '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/react/index.d.ts'. ========
+======== Resolving module 'csstype' from '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/react/index.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to '/home/joma/entwicklung/nodews/ts-js-include-order-issue', using this value to resolve non-relative module name 'csstype'.
+Resolving module name 'csstype' relative to base url '/home/joma/entwicklung/nodews/ts-js-include-order-issue' - '/home/joma/entwicklung/nodews/ts-js-include-order-issue/csstype'.
+Loading module as file / folder, candidate module location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/csstype', target file type 'TypeScript'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/csstype.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/csstype.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/csstype.d.ts' does not exist.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/csstype' does not exist, skipping all lookups in it.
+Loading module 'csstype' from 'node_modules' folder, target file type 'TypeScript'.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/react/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node_modules' does not exist, skipping all lookups in it.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index.d.ts' that references '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/csstype/index.d.ts'.
+Found 'package.json' at '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/csstype/package.json'. Package ID is 'csstype/index.d.ts@2.5.3'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/csstype.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/csstype.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/csstype.d.ts' does not exist.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index.d.ts' that references '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/csstype/index.d.ts'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/csstype/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/csstype/index.d.ts', result '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/csstype/index.d.ts'.
+======== Module name 'csstype' was successfully resolved to '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/csstype/index.d.ts'. ========
+======== Resolving type reference directive 'events', containing file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/__inferred type names__.ts', root directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types'. ========
+Resolving with primary search path '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types'.
+'package.json' does not have a 'typings' field.
+'package.json' does not have a 'types' field.
+'package.json' has 'main' field '' that references '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/events'.
+Found 'package.json' at '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/events/package.json'. Package ID is '@types/events/index.d.ts@1.2.0'.
+'package.json' does not have a 'typings' field.
+'package.json' does not have a 'types' field.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/events/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/events/index.d.ts', result '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/events/index.d.ts'.
+======== Type reference directive 'events' was successfully resolved to '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/events/index.d.ts', primary: true. ========
+======== Resolving type reference directive 'http-proxy', containing file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/__inferred type names__.ts', root directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types'. ========
+Resolving with primary search path '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types'.
+'package.json' does not have a 'typings' field.
+'package.json' does not have a 'types' field.
+'package.json' has 'main' field '' that references '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/http-proxy'.
+Found 'package.json' at '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/http-proxy/package.json'. Package ID is '@types/http-proxy/index.d.ts@1.16.2'.
+'package.json' does not have a 'typings' field.
+'package.json' does not have a 'types' field.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/http-proxy/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/http-proxy/index.d.ts', result '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/http-proxy/index.d.ts'.
+======== Type reference directive 'http-proxy' was successfully resolved to '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/http-proxy/index.d.ts', primary: true. ========
+======== Resolving type reference directive 'node', containing file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/__inferred type names__.ts', root directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types'. ========
+Resolving with primary search path '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types'.
+'package.json' does not have a 'typings' field.
+'package.json' does not have a 'types' field.
+'package.json' has 'main' field '' that references '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node'.
+Found 'package.json' at '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/package.json'. Package ID is '@types/node/index.d.ts@10.3.0'.
+'package.json' does not have a 'typings' field.
+'package.json' does not have a 'types' field.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts', result '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+======== Type reference directive 'node' was successfully resolved to '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts', primary: true. ========
+======== Resolving type reference directive 'react', containing file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/__inferred type names__.ts', root directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types'. ========
+Resolving with primary search path '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types'.
+'package.json' does not have a 'typings' field.
+'package.json' does not have a 'types' field.
+'package.json' has 'main' field '' that references '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/react'.
+Found 'package.json' at '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/react/package.json'. Package ID is '@types/react/index.d.ts@16.3.16'.
+'package.json' does not have a 'typings' field.
+'package.json' does not have a 'types' field.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/react/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/react/index.d.ts', result '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/react/index.d.ts'.
+======== Type reference directive 'react' was successfully resolved to '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/react/index.d.ts', primary: true. ========
+======== Resolving type reference directive 'storybook__addon-links', containing file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/__inferred type names__.ts', root directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types'. ========
+Resolving with primary search path '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types'.
+'package.json' does not have a 'typings' field.
+'package.json' does not have a 'types' field.
+'package.json' has 'main' field '' that references '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/storybook__addon-links'.
+Found 'package.json' at '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/storybook__addon-links/package.json'. Package ID is '@types/storybook__addon-links/index.d.ts@3.3.0'.
+'package.json' does not have a 'typings' field.
+'package.json' does not have a 'types' field.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/storybook__addon-links/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/storybook__addon-links/index.d.ts', result '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/storybook__addon-links/index.d.ts'.
+======== Type reference directive 'storybook__addon-links' was successfully resolved to '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/storybook__addon-links/index.d.ts', primary: true. ========
+======== Resolving type reference directive 'node', containing file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/http-proxy/index.d.ts', root directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types'. ========
+Resolving with primary search path '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types'.
+'package.json' does not have a 'typings' field.
+'package.json' does not have a 'types' field.
+'package.json' has 'main' field '' that references '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node'.
+Found 'package.json' at '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/package.json'. Package ID is '@types/node/index.d.ts@10.3.0'.
+'package.json' does not have a 'typings' field.
+'package.json' does not have a 'types' field.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts', result '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+======== Type reference directive 'node' was successfully resolved to '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts', primary: true. ========
+======== Resolving module 'events' from '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/inspector.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to '/home/joma/entwicklung/nodews/ts-js-include-order-issue', using this value to resolve non-relative module name 'events'.
+Resolving module name 'events' relative to base url '/home/joma/entwicklung/nodews/ts-js-include-order-issue' - '/home/joma/entwicklung/nodews/ts-js-include-order-issue/events'.
+Loading module as file / folder, candidate module location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/events', target file type 'TypeScript'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/events.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/events.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/events.d.ts' does not exist.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/events' does not exist, skipping all lookups in it.
+Loading module 'events' from 'node_modules' folder, target file type 'TypeScript'.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node_modules' does not exist, skipping all lookups in it.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/events.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/events.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/events.d.ts' does not exist.
+'package.json' does not have a 'typings' field.
+'package.json' does not have a 'types' field.
+'package.json' has 'main' field '' that references '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/events'.
+Found 'package.json' at '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/events/package.json'. Package ID is '@types/events/index.d.ts@1.2.0'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/events.d.ts' does not exist.
+'package.json' does not have a 'typings' field.
+'package.json' does not have a 'types' field.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/events/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/events/index.d.ts', result '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/events/index.d.ts'.
+======== Module name 'events' was successfully resolved to '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/events/index.d.ts'. ========
+Module 'events' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'net' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'stream' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'url' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'child_process' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'events' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'net' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'stream' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'tls' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'events' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'http' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'url' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'stream' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'readline' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'events' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'stream' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'events' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'stream' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'net' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'querystring' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'stream' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'events' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'dns' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'net' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'dns' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'events' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'stream' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'events' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'url' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'crypto' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'dns' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'net' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'stream' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'events' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'net' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'events' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'events' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'fs' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'net' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'stream' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'tls' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'url' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'http' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'http' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+Module 'async_hooks' was resolved as locally declared ambient module in file '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts'.
+======== Resolving module 'net' from '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/http-proxy/index.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to '/home/joma/entwicklung/nodews/ts-js-include-order-issue', using this value to resolve non-relative module name 'net'.
+Resolving module name 'net' relative to base url '/home/joma/entwicklung/nodews/ts-js-include-order-issue' - '/home/joma/entwicklung/nodews/ts-js-include-order-issue/net'.
+Loading module as file / folder, candidate module location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/net', target file type 'TypeScript'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/net.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/net.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/net.d.ts' does not exist.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/net' does not exist, skipping all lookups in it.
+Loading module 'net' from 'node_modules' folder, target file type 'TypeScript'.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/http-proxy/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node_modules' does not exist, skipping all lookups in it.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/net.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/net.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/net.d.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/net.d.ts' does not exist.
+Directory '/home/joma/entwicklung/nodews/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/entwicklung/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/node_modules' does not exist, skipping all lookups in it.
+Directory '/node_modules' does not exist, skipping all lookups in it.
+'baseUrl' option is set to '/home/joma/entwicklung/nodews/ts-js-include-order-issue', using this value to resolve non-relative module name 'net'.
+Resolving module name 'net' relative to base url '/home/joma/entwicklung/nodews/ts-js-include-order-issue' - '/home/joma/entwicklung/nodews/ts-js-include-order-issue/net'.
+Loading module as file / folder, candidate module location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/net', target file type 'JavaScript'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/net.js' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/net.jsx' does not exist.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/net' does not exist, skipping all lookups in it.
+Loading module 'net' from 'node_modules' folder, target file type 'JavaScript'.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/http-proxy/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node_modules' does not exist, skipping all lookups in it.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/net.js' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/net.jsx' does not exist.
+Directory '/home/joma/entwicklung/nodews/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/entwicklung/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/node_modules' does not exist, skipping all lookups in it.
+Directory '/node_modules' does not exist, skipping all lookups in it.
+======== Module name 'net' was not resolved. ========
+======== Resolving module 'http' from '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/http-proxy/index.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to '/home/joma/entwicklung/nodews/ts-js-include-order-issue', using this value to resolve non-relative module name 'http'.
+Resolving module name 'http' relative to base url '/home/joma/entwicklung/nodews/ts-js-include-order-issue' - '/home/joma/entwicklung/nodews/ts-js-include-order-issue/http'.
+Loading module as file / folder, candidate module location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/http', target file type 'TypeScript'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/http.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/http.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/http.d.ts' does not exist.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/http' does not exist, skipping all lookups in it.
+Loading module 'http' from 'node_modules' folder, target file type 'TypeScript'.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/http-proxy/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node_modules' does not exist, skipping all lookups in it.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/http.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/http.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/http.d.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/http.d.ts' does not exist.
+Directory '/home/joma/entwicklung/nodews/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/entwicklung/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/node_modules' does not exist, skipping all lookups in it.
+Directory '/node_modules' does not exist, skipping all lookups in it.
+'baseUrl' option is set to '/home/joma/entwicklung/nodews/ts-js-include-order-issue', using this value to resolve non-relative module name 'http'.
+Resolving module name 'http' relative to base url '/home/joma/entwicklung/nodews/ts-js-include-order-issue' - '/home/joma/entwicklung/nodews/ts-js-include-order-issue/http'.
+Loading module as file / folder, candidate module location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/http', target file type 'JavaScript'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/http.js' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/http.jsx' does not exist.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/http' does not exist, skipping all lookups in it.
+Loading module 'http' from 'node_modules' folder, target file type 'JavaScript'.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/http-proxy/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node_modules' does not exist, skipping all lookups in it.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/http.js' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/http.jsx' does not exist.
+Directory '/home/joma/entwicklung/nodews/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/entwicklung/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/node_modules' does not exist, skipping all lookups in it.
+Directory '/node_modules' does not exist, skipping all lookups in it.
+======== Module name 'http' was not resolved. ========
+======== Resolving module 'https' from '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/http-proxy/index.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to '/home/joma/entwicklung/nodews/ts-js-include-order-issue', using this value to resolve non-relative module name 'https'.
+Resolving module name 'https' relative to base url '/home/joma/entwicklung/nodews/ts-js-include-order-issue' - '/home/joma/entwicklung/nodews/ts-js-include-order-issue/https'.
+Loading module as file / folder, candidate module location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/https', target file type 'TypeScript'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/https.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/https.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/https.d.ts' does not exist.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/https' does not exist, skipping all lookups in it.
+Loading module 'https' from 'node_modules' folder, target file type 'TypeScript'.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/http-proxy/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node_modules' does not exist, skipping all lookups in it.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/https.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/https.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/https.d.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/https.d.ts' does not exist.
+Directory '/home/joma/entwicklung/nodews/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/entwicklung/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/node_modules' does not exist, skipping all lookups in it.
+Directory '/node_modules' does not exist, skipping all lookups in it.
+'baseUrl' option is set to '/home/joma/entwicklung/nodews/ts-js-include-order-issue', using this value to resolve non-relative module name 'https'.
+Resolving module name 'https' relative to base url '/home/joma/entwicklung/nodews/ts-js-include-order-issue' - '/home/joma/entwicklung/nodews/ts-js-include-order-issue/https'.
+Loading module as file / folder, candidate module location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/https', target file type 'JavaScript'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/https.js' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/https.jsx' does not exist.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/https' does not exist, skipping all lookups in it.
+Loading module 'https' from 'node_modules' folder, target file type 'JavaScript'.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/http-proxy/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node_modules' does not exist, skipping all lookups in it.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/https.js' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/https.jsx' does not exist.
+Directory '/home/joma/entwicklung/nodews/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/entwicklung/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/node_modules' does not exist, skipping all lookups in it.
+Directory '/node_modules' does not exist, skipping all lookups in it.
+======== Module name 'https' was not resolved. ========
+======== Resolving module 'events' from '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/http-proxy/index.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to '/home/joma/entwicklung/nodews/ts-js-include-order-issue', using this value to resolve non-relative module name 'events'.
+Resolving module name 'events' relative to base url '/home/joma/entwicklung/nodews/ts-js-include-order-issue' - '/home/joma/entwicklung/nodews/ts-js-include-order-issue/events'.
+Loading module as file / folder, candidate module location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/events', target file type 'TypeScript'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/events.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/events.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/events.d.ts' does not exist.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/events' does not exist, skipping all lookups in it.
+Loading module 'events' from 'node_modules' folder, target file type 'TypeScript'.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/http-proxy/node_modules' does not exist, skipping all lookups in it.
+Resolution for module 'events' was found in cache from location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types'.
+Resolving real path for '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/events/index.d.ts', result '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/events/index.d.ts'.
+======== Module name 'events' was successfully resolved to '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/events/index.d.ts'. ========
+======== Resolving module 'url' from '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/http-proxy/index.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to '/home/joma/entwicklung/nodews/ts-js-include-order-issue', using this value to resolve non-relative module name 'url'.
+Resolving module name 'url' relative to base url '/home/joma/entwicklung/nodews/ts-js-include-order-issue' - '/home/joma/entwicklung/nodews/ts-js-include-order-issue/url'.
+Loading module as file / folder, candidate module location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/url', target file type 'TypeScript'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/url.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/url.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/url.d.ts' does not exist.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/url' does not exist, skipping all lookups in it.
+Loading module 'url' from 'node_modules' folder, target file type 'TypeScript'.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/http-proxy/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node_modules' does not exist, skipping all lookups in it.
+'package.json' does not have a 'typings' field.
+'package.json' does not have a 'types' field.
+'package.json' has 'main' field './url.js' that references '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/url.js'.
+Found 'package.json' at '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/package.json'. Package ID is 'url/url.d.ts@0.11.0'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url.d.ts' does not exist.
+'package.json' does not have a 'typings' field.
+'package.json' does not have a 'types' field.
+'package.json' has 'main' field './url.js' that references '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/url.js'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/url.js' exist - use it as a name resolution result.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/url.js' has an unsupported extension, so skipping it.
+Loading module as file / folder, candidate module location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/url.js', target file type 'TypeScript'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/url.js.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/url.js.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/url.js.d.ts' does not exist.
+File name '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/url.js' has a '.js' extension - stripping it.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/url.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/url.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/url.d.ts' does not exist.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/url.js' does not exist, skipping all lookups in it.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/index.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/index.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/index.d.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/url.d.ts' does not exist.
+Directory '/home/joma/entwicklung/nodews/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/entwicklung/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/node_modules' does not exist, skipping all lookups in it.
+Directory '/node_modules' does not exist, skipping all lookups in it.
+'baseUrl' option is set to '/home/joma/entwicklung/nodews/ts-js-include-order-issue', using this value to resolve non-relative module name 'url'.
+Resolving module name 'url' relative to base url '/home/joma/entwicklung/nodews/ts-js-include-order-issue' - '/home/joma/entwicklung/nodews/ts-js-include-order-issue/url'.
+Loading module as file / folder, candidate module location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/url', target file type 'JavaScript'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/url.js' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/url.jsx' does not exist.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/url' does not exist, skipping all lookups in it.
+Loading module 'url' from 'node_modules' folder, target file type 'JavaScript'.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/http-proxy/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node_modules' does not exist, skipping all lookups in it.
+'package.json' does not have a 'typings' field.
+'package.json' does not have a 'types' field.
+'package.json' has 'main' field './url.js' that references '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/url.js'.
+Found 'package.json' at '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/package.json'. Package ID is 'url/url.d.ts@0.11.0'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url.js' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url.jsx' does not exist.
+'package.json' has 'main' field './url.js' that references '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/url.js'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/url.js' exist - use it as a name resolution result.
+Resolving real path for '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/url.js', result '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/url.js'.
+======== Module name 'url' was successfully resolved to '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/url.js'. ========
+======== Resolving module 'stream' from '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/http-proxy/index.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to '/home/joma/entwicklung/nodews/ts-js-include-order-issue', using this value to resolve non-relative module name 'stream'.
+Resolving module name 'stream' relative to base url '/home/joma/entwicklung/nodews/ts-js-include-order-issue' - '/home/joma/entwicklung/nodews/ts-js-include-order-issue/stream'.
+Loading module as file / folder, candidate module location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/stream', target file type 'TypeScript'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/stream.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/stream.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/stream.d.ts' does not exist.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/stream' does not exist, skipping all lookups in it.
+Loading module 'stream' from 'node_modules' folder, target file type 'TypeScript'.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/http-proxy/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node_modules' does not exist, skipping all lookups in it.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/stream.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/stream.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/stream.d.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/stream.d.ts' does not exist.
+Directory '/home/joma/entwicklung/nodews/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/entwicklung/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/node_modules' does not exist, skipping all lookups in it.
+Directory '/node_modules' does not exist, skipping all lookups in it.
+'baseUrl' option is set to '/home/joma/entwicklung/nodews/ts-js-include-order-issue', using this value to resolve non-relative module name 'stream'.
+Resolving module name 'stream' relative to base url '/home/joma/entwicklung/nodews/ts-js-include-order-issue' - '/home/joma/entwicklung/nodews/ts-js-include-order-issue/stream'.
+Loading module as file / folder, candidate module location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/stream', target file type 'JavaScript'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/stream.js' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/stream.jsx' does not exist.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/stream' does not exist, skipping all lookups in it.
+Loading module 'stream' from 'node_modules' folder, target file type 'JavaScript'.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/http-proxy/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node_modules' does not exist, skipping all lookups in it.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/stream.js' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/stream.jsx' does not exist.
+Directory '/home/joma/entwicklung/nodews/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/entwicklung/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/node_modules' does not exist, skipping all lookups in it.
+Directory '/node_modules' does not exist, skipping all lookups in it.
+======== Module name 'stream' was not resolved. ========
+======== Resolving module 'punycode' from '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/url.js'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to '/home/joma/entwicklung/nodews/ts-js-include-order-issue', using this value to resolve non-relative module name 'punycode'.
+Resolving module name 'punycode' relative to base url '/home/joma/entwicklung/nodews/ts-js-include-order-issue' - '/home/joma/entwicklung/nodews/ts-js-include-order-issue/punycode'.
+Loading module as file / folder, candidate module location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/punycode', target file type 'TypeScript'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/punycode.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/punycode.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/punycode.d.ts' does not exist.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/punycode' does not exist, skipping all lookups in it.
+Loading module 'punycode' from 'node_modules' folder, target file type 'TypeScript'.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/node_modules' does not exist, skipping all lookups in it.
+'package.json' does not have a 'typings' field.
+'package.json' does not have a 'types' field.
+'package.json' has 'main' field 'punycode.js' that references '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/punycode/punycode.js'.
+Found 'package.json' at '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/punycode/package.json'. Package ID is 'punycode/punycode.d.ts@1.3.2'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/punycode.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/punycode.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/punycode.d.ts' does not exist.
+'package.json' does not have a 'typings' field.
+'package.json' does not have a 'types' field.
+'package.json' has 'main' field 'punycode.js' that references '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/punycode/punycode.js'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/punycode/punycode.js' exist - use it as a name resolution result.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/punycode/punycode.js' has an unsupported extension, so skipping it.
+Loading module as file / folder, candidate module location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/punycode/punycode.js', target file type 'TypeScript'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/punycode/punycode.js.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/punycode/punycode.js.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/punycode/punycode.js.d.ts' does not exist.
+File name '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/punycode/punycode.js' has a '.js' extension - stripping it.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/punycode/punycode.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/punycode/punycode.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/punycode/punycode.d.ts' does not exist.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/punycode/punycode.js' does not exist, skipping all lookups in it.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/punycode/index.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/punycode/index.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/punycode/index.d.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/punycode.d.ts' does not exist.
+Directory '/home/joma/entwicklung/nodews/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/entwicklung/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/node_modules' does not exist, skipping all lookups in it.
+Directory '/node_modules' does not exist, skipping all lookups in it.
+'baseUrl' option is set to '/home/joma/entwicklung/nodews/ts-js-include-order-issue', using this value to resolve non-relative module name 'punycode'.
+Resolving module name 'punycode' relative to base url '/home/joma/entwicklung/nodews/ts-js-include-order-issue' - '/home/joma/entwicklung/nodews/ts-js-include-order-issue/punycode'.
+Loading module as file / folder, candidate module location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/punycode', target file type 'JavaScript'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/punycode.js' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/punycode.jsx' does not exist.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/punycode' does not exist, skipping all lookups in it.
+Loading module 'punycode' from 'node_modules' folder, target file type 'JavaScript'.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/node_modules' does not exist, skipping all lookups in it.
+'package.json' does not have a 'typings' field.
+'package.json' does not have a 'types' field.
+'package.json' has 'main' field 'punycode.js' that references '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/punycode/punycode.js'.
+Found 'package.json' at '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/punycode/package.json'. Package ID is 'punycode/punycode.d.ts@1.3.2'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/punycode.js' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/punycode.jsx' does not exist.
+'package.json' has 'main' field 'punycode.js' that references '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/punycode/punycode.js'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/punycode/punycode.js' exist - use it as a name resolution result.
+Resolving real path for '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/punycode/punycode.js', result '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/punycode/punycode.js'.
+======== Module name 'punycode' was successfully resolved to '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/punycode/punycode.js'. ========
+======== Resolving module './util' from '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/url.js'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module as file / folder, candidate module location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/util', target file type 'TypeScript'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/util.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/util.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/util.d.ts' does not exist.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/util' does not exist, skipping all lookups in it.
+Loading module as file / folder, candidate module location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/util', target file type 'JavaScript'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/util.js' exist - use it as a name resolution result.
+Found 'package.json' at '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/package.json'. Package ID is 'url/util.d.ts@0.11.0'.
+======== Module name './util' was successfully resolved to '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/util.js'. ========
+======== Resolving module 'querystring' from '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/url.js'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to '/home/joma/entwicklung/nodews/ts-js-include-order-issue', using this value to resolve non-relative module name 'querystring'.
+Resolving module name 'querystring' relative to base url '/home/joma/entwicklung/nodews/ts-js-include-order-issue' - '/home/joma/entwicklung/nodews/ts-js-include-order-issue/querystring'.
+Loading module as file / folder, candidate module location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/querystring', target file type 'TypeScript'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/querystring.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/querystring.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/querystring.d.ts' does not exist.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/querystring' does not exist, skipping all lookups in it.
+Loading module 'querystring' from 'node_modules' folder, target file type 'TypeScript'.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/node_modules' does not exist, skipping all lookups in it.
+'package.json' does not have a 'typings' field.
+'package.json' does not have a 'types' field.
+'package.json' does not have a 'main' field.
+Found 'package.json' at '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring/package.json'. Package ID is 'querystring/index.d.ts@0.2.0'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring.d.ts' does not exist.
+'package.json' does not have a 'typings' field.
+'package.json' does not have a 'types' field.
+'package.json' does not have a 'main' field.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring/index.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring/index.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring/index.d.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/querystring.d.ts' does not exist.
+Directory '/home/joma/entwicklung/nodews/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/entwicklung/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/joma/node_modules' does not exist, skipping all lookups in it.
+Directory '/home/node_modules' does not exist, skipping all lookups in it.
+Directory '/node_modules' does not exist, skipping all lookups in it.
+'baseUrl' option is set to '/home/joma/entwicklung/nodews/ts-js-include-order-issue', using this value to resolve non-relative module name 'querystring'.
+Resolving module name 'querystring' relative to base url '/home/joma/entwicklung/nodews/ts-js-include-order-issue' - '/home/joma/entwicklung/nodews/ts-js-include-order-issue/querystring'.
+Loading module as file / folder, candidate module location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/querystring', target file type 'JavaScript'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/querystring.js' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/querystring.jsx' does not exist.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/querystring' does not exist, skipping all lookups in it.
+Loading module 'querystring' from 'node_modules' folder, target file type 'JavaScript'.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/node_modules' does not exist, skipping all lookups in it.
+'package.json' does not have a 'typings' field.
+'package.json' does not have a 'types' field.
+'package.json' does not have a 'main' field.
+Found 'package.json' at '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring/package.json'. Package ID is 'querystring/index.d.ts@0.2.0'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring.js' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring.jsx' does not exist.
+'package.json' does not have a 'main' field.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring/index.js' exist - use it as a name resolution result.
+Resolving real path for '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring/index.js', result '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring/index.js'.
+======== Module name 'querystring' was successfully resolved to '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring/index.js'. ========
+======== Resolving module './decode' from '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring/index.js'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module as file / folder, candidate module location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring/decode', target file type 'TypeScript'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring/decode.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring/decode.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring/decode.d.ts' does not exist.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring/decode' does not exist, skipping all lookups in it.
+Loading module as file / folder, candidate module location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring/decode', target file type 'JavaScript'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring/decode.js' exist - use it as a name resolution result.
+Found 'package.json' at '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring/package.json'. Package ID is 'querystring/decode.d.ts@0.2.0'.
+======== Module name './decode' was successfully resolved to '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring/decode.js'. ========
+======== Resolving module './encode' from '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring/index.js'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module as file / folder, candidate module location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring/encode', target file type 'TypeScript'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring/encode.ts' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring/encode.tsx' does not exist.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring/encode.d.ts' does not exist.
+Directory '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring/encode' does not exist, skipping all lookups in it.
+Loading module as file / folder, candidate module location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring/encode', target file type 'JavaScript'.
+File '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring/encode.js' exist - use it as a name resolution result.
+Found 'package.json' at '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring/package.json'. Package ID is 'querystring/encode.d.ts@0.2.0'.
+======== Module name './encode' was successfully resolved to '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring/encode.js'. ========
+======== Resolving module 'csstype' from '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/react/index.d.ts'. ========
+Resolution for module 'csstype' was found in cache from location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/react'.
+======== Module name 'csstype' was successfully resolved to '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/csstype/index.d.ts'. ========
+======== Resolving module 'react' from '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/storybook__addon-links/index.d.ts'. ========
+Resolution for module 'react' was found in cache from location '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/storybook__addon-links'.
+======== Module name 'react' was successfully resolved to '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/react/index.d.ts'. ========
+node_modules/punycode/punycode.js(8,11): error TS2339: Property 'nodeType' does not exist on type 'NodeModule'.
+node_modules/punycode/punycode.js(11,14): error TS2339: Property 'global' does not exist on type 'false | Global'.
+  Property 'global' does not exist on type 'false'.
+node_modules/punycode/punycode.js(12,14): error TS2339: Property 'window' does not exist on type 'false | Global'.
+  Property 'window' does not exist on type 'false'.
+node_modules/punycode/punycode.js(13,14): error TS2339: Property 'self' does not exist on type 'false | Global'.
+  Property 'self' does not exist on type 'false'.
+node_modules/punycode/punycode.js(74,23): error TS8024: JSDoc '@param' tag has name 'callback', but there is no parameter with that name.
+node_modules/punycode/punycode.js(78,22): error TS7006: Parameter 'fn' implicitly has an 'any' type.
+node_modules/punycode/punycode.js(91,21): error TS8024: JSDoc '@param' tag has name 'domain', but there is no parameter with that name.
+node_modules/punycode/punycode.js(92,23): error TS8024: JSDoc '@param' tag has name 'callback', but there is no parameter with that name.
+node_modules/punycode/punycode.js(97,21): error TS7006: Parameter 'string' implicitly has an 'any' type.
+node_modules/punycode/punycode.js(97,29): error TS7006: Parameter 'fn' implicitly has an 'any' type.
+node_modules/punycode/punycode.js(110,3): error TS2322: Type 'string' is not assignable to type 'any[]'.
+node_modules/punycode/punycode.js(157,20): error TS8024: JSDoc '@param' tag has name 'codePoints', but there is no parameter with that name.
+node_modules/punycode/punycode.js(160,22): error TS7006: Parameter 'array' implicitly has an 'any' type.
+node_modules/punycode/punycode.js(161,30): error TS7006: Parameter 'value' implicitly has an 'any' type.
+node_modules/punycode/punycode.js(206,31): error TS7006: Parameter 'flag' implicitly has an 'any' type.
+node_modules/punycode/punycode.js(209,28): error TS2363: The right-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+node_modules/punycode/punycode.js(209,44): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+node_modules/punycode/punycode.js(217,17): error TS7006: Parameter 'delta' implicitly has an 'any' type.
+node_modules/punycode/punycode.js(217,24): error TS7006: Parameter 'numPoints' implicitly has an 'any' type.
+node_modules/punycode/punycode.js(217,35): error TS7006: Parameter 'firstTime' implicitly has an 'any' type.
+node_modules/punycode/punycode.js(356,3): error TS2322: Type 'any[]' is not assignable to type 'string'.
+node_modules/punycode/punycode.js(369,8): error TS2365: Operator '<' cannot be applied to types 'string' and 'number'.
+node_modules/punycode/punycode.js(370,36): error TS2345: Argument of type 'string' is not assignable to parameter of type 'number'.
+node_modules/punycode/punycode.js(399,8): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+node_modules/punycode/punycode.js(399,12): error TS2363: The right-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+node_modules/punycode/punycode.js(403,14): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+node_modules/punycode/punycode.js(403,18): error TS2363: The right-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+node_modules/punycode/punycode.js(436,6): error TS2356: An arithmetic operand must be of type 'any', 'number' or an enum type.
+node_modules/punycode/punycode.js(454,3): error TS2322: Type 'any[]' is not assignable to type 'string'.
+node_modules/punycode/punycode.js(454,36): error TS7006: Parameter 'string' implicitly has an 'any' type.
+node_modules/punycode/punycode.js(473,3): error TS2322: Type 'any[]' is not assignable to type 'string'.
+node_modules/punycode/punycode.js(473,36): error TS7006: Parameter 'string' implicitly has an 'any' type.
+node_modules/punycode/punycode.js(511,10): error TS2304: Cannot find name 'define'.
+node_modules/punycode/punycode.js(512,10): error TS2304: Cannot find name 'define'.
+node_modules/punycode/punycode.js(513,3): error TS2304: Cannot find name 'define'.
+node_modules/punycode/punycode.js(515,3): error TS2304: Cannot find name 'define'.
+node_modules/punycode/punycode.js(530,3): error TS2683: 'this' implicitly has type 'any' because it does not have a type annotation.
+node_modules/querystring/index.js(3,42): error TS7016: Could not find a declaration file for module './decode'. '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring/decode.js' implicitly has an 'any' type.
+  Try `npm install @types/querystring` if it exists or add a new declaration (.d.ts) file containing `declare module 'querystring';`
+node_modules/querystring/index.js(4,46): error TS7016: Could not find a declaration file for module './encode'. '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring/encode.js' implicitly has an 'any' type.
+  Try `npm install @types/querystring` if it exists or add a new declaration (.d.ts) file containing `declare module 'querystring';`
+node_modules/url/url.js(35,3): error TS2683: 'this' implicitly has type 'any' because it does not have a type annotation.
+node_modules/url/url.js(36,3): error TS2683: 'this' implicitly has type 'any' because it does not have a type annotation.
+node_modules/url/url.js(37,3): error TS2683: 'this' implicitly has type 'any' because it does not have a type annotation.
+node_modules/url/url.js(38,3): error TS2683: 'this' implicitly has type 'any' because it does not have a type annotation.
+node_modules/url/url.js(38,3): error TS7022: 'host' implicitly has type 'any' because it does not have a type annotation and is referenced directly or indirectly in its own initializer.
+node_modules/url/url.js(39,3): error TS2683: 'this' implicitly has type 'any' because it does not have a type annotation.
+node_modules/url/url.js(40,3): error TS2683: 'this' implicitly has type 'any' because it does not have a type annotation.
+node_modules/url/url.js(40,3): error TS7022: 'hostname' implicitly has type 'any' because it does not have a type annotation and is referenced directly or indirectly in its own initializer.
+node_modules/url/url.js(41,3): error TS2683: 'this' implicitly has type 'any' because it does not have a type annotation.
+node_modules/url/url.js(42,3): error TS2683: 'this' implicitly has type 'any' because it does not have a type annotation.
+node_modules/url/url.js(43,3): error TS2683: 'this' implicitly has type 'any' because it does not have a type annotation.
+node_modules/url/url.js(43,3): error TS7022: 'query' implicitly has type 'any' because it does not have a type annotation and is referenced directly or indirectly in its own initializer.
+node_modules/url/url.js(44,3): error TS2683: 'this' implicitly has type 'any' because it does not have a type annotation.
+node_modules/url/url.js(45,3): error TS2683: 'this' implicitly has type 'any' because it does not have a type annotation.
+node_modules/url/url.js(46,3): error TS2683: 'this' implicitly has type 'any' because it does not have a type annotation.
+node_modules/url/url.js(102,19): error TS7006: Parameter 'url' implicitly has an 'any' type.
+node_modules/url/url.js(102,24): error TS7006: Parameter 'parseQueryString' implicitly has an 'any' type.
+node_modules/url/url.js(102,42): error TS7006: Parameter 'slashesDenoteHost' implicitly has an 'any' type.
+node_modules/url/url.js(110,32): error TS7006: Parameter 'url' implicitly has an 'any' type.
+node_modules/url/url.js(110,37): error TS7006: Parameter 'parseQueryString' implicitly has an 'any' type.
+node_modules/url/url.js(110,55): error TS7006: Parameter 'slashesDenoteHost' implicitly has an 'any' type.
+node_modules/url/url.js(156,5): error TS2322: Type 'string' is not assignable to type 'RegExpExecArray | null'.
+node_modules/url/url.js(157,22): error TS2531: Object is possibly 'null'.
+node_modules/url/url.js(157,28): error TS2339: Property 'toLowerCase' does not exist on type 'RegExpExecArray'.
+node_modules/url/url.js(159,24): error TS2531: Object is possibly 'null'.
+node_modules/url/url.js(168,48): error TS2538: Type 'RegExpExecArray' cannot be used as an index type.
+node_modules/url/url.js(174,25): error TS2538: Type 'null' cannot be used as an index type.
+node_modules/url/url.js(175,8): error TS2454: Variable 'slashes' is used before being assigned.
+node_modules/url/url.js(175,46): error TS2538: Type 'RegExpExecArray' cannot be used as an index type.
+node_modules/url/url.js(248,11): error TS7022: 'hostparts' implicitly has type 'any' because it does not have a type annotation and is referenced directly or indirectly in its own initializer.
+node_modules/url/url.js(266,17): error TS7022: 'validParts' implicitly has type 'any' because it does not have a type annotation and is referenced directly or indirectly in its own initializer.
+node_modules/url/url.js(299,9): error TS7022: 'h' implicitly has type 'any' because it does not have a type annotation and is referenced directly or indirectly in its own initializer.
+node_modules/url/url.js(320,21): error TS2403: Subsequent variable declarations must have the same type.  Variable 'l' must be of type 'any', but here has type 'number'.
+node_modules/url/url.js(361,9): error TS2403: Subsequent variable declarations must have the same type.  Variable 'p' must be of type 'string', but here has type 'any'.
+node_modules/url/url.js(372,20): error TS7006: Parameter 'obj' implicitly has an 'any' type.
+node_modules/url/url.js(397,5): error TS2322: Type 'string' is not assignable to type 'boolean'.
+node_modules/url/url.js(399,5): error TS2322: Type 'string' is not assignable to type 'boolean'.
+node_modules/url/url.js(403,7): error TS2322: Type 'string' is not assignable to type 'boolean'.
+node_modules/url/url.js(421,5): error TS2322: Type 'string' is not assignable to type 'boolean'.
+node_modules/url/url.js(424,5): error TS2322: Type '""' is not assignable to type 'boolean'.
+node_modules/url/url.js(430,49): error TS7006: Parameter 'match' implicitly has an 'any' type.
+node_modules/url/url.js(438,21): error TS7006: Parameter 'source' implicitly has an 'any' type.
+node_modules/url/url.js(438,29): error TS7006: Parameter 'relative' implicitly has an 'any' type.
+node_modules/url/url.js(442,34): error TS7006: Parameter 'relative' implicitly has an 'any' type.
+node_modules/url/url.js(446,27): error TS7006: Parameter 'source' implicitly has an 'any' type.
+node_modules/url/url.js(446,35): error TS7006: Parameter 'relative' implicitly has an 'any' type.
+node_modules/url/url.js(451,40): error TS7006: Parameter 'relative' implicitly has an 'any' type.
+node_modules/url/url.js(462,5): error TS7017: Element implicitly has an 'any' type because type 'Url' has no index signature.
+node_modules/url/url.js(462,20): error TS7017: Element implicitly has an 'any' type because type 'Url' has no index signature.
+node_modules/url/url.js(482,9): error TS7017: Element implicitly has an 'any' type because type 'Url' has no index signature.
+node_modules/url/url.js(508,9): error TS7017: Element implicitly has an 'any' type because type 'Url' has no index signature.
+node_modules/url/url.js(722,7): error TS7022: 'host' implicitly has type 'any' because it does not have a type annotation and is referenced directly or indirectly in its own initializer.
+node_modules/url/url.js(725,5): error TS2322: Type 'string' is not assignable to type 'RegExpExecArray | null'.
+node_modules/url/url.js(726,9): error TS2365: Operator '!==' cannot be applied to types 'RegExpExecArray | null' and 'string'.
+node_modules/url/url.js(727,19): error TS2531: Object is possibly 'null'.
+node_modules/url/url.js(727,24): error TS2339: Property 'substr' does not exist on type 'RegExpExecArray'.
+node_modules/url/url.js(729,41): error TS2531: Object is possibly 'null'.
+node_modules/url/util.js(4,22): error TS7006: Parameter 'arg' implicitly has an 'any' type.
+node_modules/url/util.js(7,22): error TS7006: Parameter 'arg' implicitly has an 'any' type.
+node_modules/url/util.js(10,20): error TS7006: Parameter 'arg' implicitly has an 'any' type.
+node_modules/url/util.js(13,31): error TS7006: Parameter 'arg' implicitly has an 'any' type.

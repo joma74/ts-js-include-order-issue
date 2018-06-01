@@ -1,0 +1,139 @@
+node_modules/punycode/punycode.js(8,11): error TS2339: Property 'nodeType' does not exist on type 'NodeModule'.
+node_modules/punycode/punycode.js(11,14): error TS2339: Property 'global' does not exist on type 'false | Global'.
+  Property 'global' does not exist on type 'false'.
+node_modules/punycode/punycode.js(12,14): error TS2339: Property 'window' does not exist on type 'false | Global'.
+  Property 'window' does not exist on type 'false'.
+node_modules/punycode/punycode.js(13,14): error TS2339: Property 'self' does not exist on type 'false | Global'.
+  Property 'self' does not exist on type 'false'.
+node_modules/punycode/punycode.js(74,23): error TS8024: JSDoc '@param' tag has name 'callback', but there is no parameter with that name.
+node_modules/punycode/punycode.js(78,22): error TS7006: Parameter 'fn' implicitly has an 'any' type.
+node_modules/punycode/punycode.js(91,21): error TS8024: JSDoc '@param' tag has name 'domain', but there is no parameter with that name.
+node_modules/punycode/punycode.js(92,23): error TS8024: JSDoc '@param' tag has name 'callback', but there is no parameter with that name.
+node_modules/punycode/punycode.js(97,21): error TS7006: Parameter 'string' implicitly has an 'any' type.
+node_modules/punycode/punycode.js(97,29): error TS7006: Parameter 'fn' implicitly has an 'any' type.
+node_modules/punycode/punycode.js(110,3): error TS2322: Type 'string' is not assignable to type 'any[]'.
+node_modules/punycode/punycode.js(157,20): error TS8024: JSDoc '@param' tag has name 'codePoints', but there is no parameter with that name.
+node_modules/punycode/punycode.js(160,22): error TS7006: Parameter 'array' implicitly has an 'any' type.
+node_modules/punycode/punycode.js(161,30): error TS7006: Parameter 'value' implicitly has an 'any' type.
+node_modules/punycode/punycode.js(206,31): error TS7006: Parameter 'flag' implicitly has an 'any' type.
+node_modules/punycode/punycode.js(209,28): error TS2363: The right-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+node_modules/punycode/punycode.js(209,44): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+node_modules/punycode/punycode.js(217,17): error TS7006: Parameter 'delta' implicitly has an 'any' type.
+node_modules/punycode/punycode.js(217,24): error TS7006: Parameter 'numPoints' implicitly has an 'any' type.
+node_modules/punycode/punycode.js(217,35): error TS7006: Parameter 'firstTime' implicitly has an 'any' type.
+node_modules/punycode/punycode.js(356,3): error TS2322: Type 'any[]' is not assignable to type 'string'.
+node_modules/punycode/punycode.js(369,8): error TS2365: Operator '<' cannot be applied to types 'string' and 'number'.
+node_modules/punycode/punycode.js(370,36): error TS2345: Argument of type 'string' is not assignable to parameter of type 'number'.
+node_modules/punycode/punycode.js(399,8): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+node_modules/punycode/punycode.js(399,12): error TS2363: The right-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+node_modules/punycode/punycode.js(403,14): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+node_modules/punycode/punycode.js(403,18): error TS2363: The right-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+node_modules/punycode/punycode.js(436,6): error TS2356: An arithmetic operand must be of type 'any', 'number' or an enum type.
+node_modules/punycode/punycode.js(454,3): error TS2322: Type 'any[]' is not assignable to type 'string'.
+node_modules/punycode/punycode.js(454,36): error TS7006: Parameter 'string' implicitly has an 'any' type.
+node_modules/punycode/punycode.js(473,3): error TS2322: Type 'any[]' is not assignable to type 'string'.
+node_modules/punycode/punycode.js(473,36): error TS7006: Parameter 'string' implicitly has an 'any' type.
+node_modules/punycode/punycode.js(511,10): error TS2304: Cannot find name 'define'.
+node_modules/punycode/punycode.js(512,10): error TS2304: Cannot find name 'define'.
+node_modules/punycode/punycode.js(513,3): error TS2304: Cannot find name 'define'.
+node_modules/punycode/punycode.js(515,3): error TS2304: Cannot find name 'define'.
+node_modules/punycode/punycode.js(530,3): error TS2683: 'this' implicitly has type 'any' because it does not have a type annotation.
+node_modules/querystring/index.js(3,42): error TS7016: Could not find a declaration file for module './decode'. '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring/decode.js' implicitly has an 'any' type.
+  Try `npm install @types/querystring` if it exists or add a new declaration (.d.ts) file containing `declare module 'querystring';`
+node_modules/querystring/index.js(4,46): error TS7016: Could not find a declaration file for module './encode'. '/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring/encode.js' implicitly has an 'any' type.
+  Try `npm install @types/querystring` if it exists or add a new declaration (.d.ts) file containing `declare module 'querystring';`
+node_modules/url/url.js(35,3): error TS2683: 'this' implicitly has type 'any' because it does not have a type annotation.
+node_modules/url/url.js(36,3): error TS2683: 'this' implicitly has type 'any' because it does not have a type annotation.
+node_modules/url/url.js(37,3): error TS2683: 'this' implicitly has type 'any' because it does not have a type annotation.
+node_modules/url/url.js(38,3): error TS2683: 'this' implicitly has type 'any' because it does not have a type annotation.
+node_modules/url/url.js(38,3): error TS7022: 'host' implicitly has type 'any' because it does not have a type annotation and is referenced directly or indirectly in its own initializer.
+node_modules/url/url.js(39,3): error TS2683: 'this' implicitly has type 'any' because it does not have a type annotation.
+node_modules/url/url.js(40,3): error TS2683: 'this' implicitly has type 'any' because it does not have a type annotation.
+node_modules/url/url.js(40,3): error TS7022: 'hostname' implicitly has type 'any' because it does not have a type annotation and is referenced directly or indirectly in its own initializer.
+node_modules/url/url.js(41,3): error TS2683: 'this' implicitly has type 'any' because it does not have a type annotation.
+node_modules/url/url.js(42,3): error TS2683: 'this' implicitly has type 'any' because it does not have a type annotation.
+node_modules/url/url.js(43,3): error TS2683: 'this' implicitly has type 'any' because it does not have a type annotation.
+node_modules/url/url.js(43,3): error TS7022: 'query' implicitly has type 'any' because it does not have a type annotation and is referenced directly or indirectly in its own initializer.
+node_modules/url/url.js(44,3): error TS2683: 'this' implicitly has type 'any' because it does not have a type annotation.
+node_modules/url/url.js(45,3): error TS2683: 'this' implicitly has type 'any' because it does not have a type annotation.
+node_modules/url/url.js(46,3): error TS2683: 'this' implicitly has type 'any' because it does not have a type annotation.
+node_modules/url/url.js(102,19): error TS7006: Parameter 'url' implicitly has an 'any' type.
+node_modules/url/url.js(102,24): error TS7006: Parameter 'parseQueryString' implicitly has an 'any' type.
+node_modules/url/url.js(102,42): error TS7006: Parameter 'slashesDenoteHost' implicitly has an 'any' type.
+node_modules/url/url.js(110,32): error TS7006: Parameter 'url' implicitly has an 'any' type.
+node_modules/url/url.js(110,37): error TS7006: Parameter 'parseQueryString' implicitly has an 'any' type.
+node_modules/url/url.js(110,55): error TS7006: Parameter 'slashesDenoteHost' implicitly has an 'any' type.
+node_modules/url/url.js(156,5): error TS2322: Type 'string' is not assignable to type 'RegExpExecArray | null'.
+node_modules/url/url.js(157,22): error TS2531: Object is possibly 'null'.
+node_modules/url/url.js(157,28): error TS2339: Property 'toLowerCase' does not exist on type 'RegExpExecArray'.
+node_modules/url/url.js(159,24): error TS2531: Object is possibly 'null'.
+node_modules/url/url.js(168,48): error TS2538: Type 'RegExpExecArray' cannot be used as an index type.
+node_modules/url/url.js(174,25): error TS2538: Type 'null' cannot be used as an index type.
+node_modules/url/url.js(175,8): error TS2454: Variable 'slashes' is used before being assigned.
+node_modules/url/url.js(175,46): error TS2538: Type 'RegExpExecArray' cannot be used as an index type.
+node_modules/url/url.js(248,11): error TS7022: 'hostparts' implicitly has type 'any' because it does not have a type annotation and is referenced directly or indirectly in its own initializer.
+node_modules/url/url.js(266,17): error TS7022: 'validParts' implicitly has type 'any' because it does not have a type annotation and is referenced directly or indirectly in its own initializer.
+node_modules/url/url.js(299,9): error TS7022: 'h' implicitly has type 'any' because it does not have a type annotation and is referenced directly or indirectly in its own initializer.
+node_modules/url/url.js(320,21): error TS2403: Subsequent variable declarations must have the same type.  Variable 'l' must be of type 'any', but here has type 'number'.
+node_modules/url/url.js(361,9): error TS2403: Subsequent variable declarations must have the same type.  Variable 'p' must be of type 'string', but here has type 'any'.
+node_modules/url/url.js(372,20): error TS7006: Parameter 'obj' implicitly has an 'any' type.
+node_modules/url/url.js(397,5): error TS2322: Type 'string' is not assignable to type 'boolean'.
+node_modules/url/url.js(399,5): error TS2322: Type 'string' is not assignable to type 'boolean'.
+node_modules/url/url.js(403,7): error TS2322: Type 'string' is not assignable to type 'boolean'.
+node_modules/url/url.js(421,5): error TS2322: Type 'string' is not assignable to type 'boolean'.
+node_modules/url/url.js(424,5): error TS2322: Type '""' is not assignable to type 'boolean'.
+node_modules/url/url.js(430,49): error TS7006: Parameter 'match' implicitly has an 'any' type.
+node_modules/url/url.js(438,21): error TS7006: Parameter 'source' implicitly has an 'any' type.
+node_modules/url/url.js(438,29): error TS7006: Parameter 'relative' implicitly has an 'any' type.
+node_modules/url/url.js(442,34): error TS7006: Parameter 'relative' implicitly has an 'any' type.
+node_modules/url/url.js(446,27): error TS7006: Parameter 'source' implicitly has an 'any' type.
+node_modules/url/url.js(446,35): error TS7006: Parameter 'relative' implicitly has an 'any' type.
+node_modules/url/url.js(451,40): error TS7006: Parameter 'relative' implicitly has an 'any' type.
+node_modules/url/url.js(462,5): error TS7017: Element implicitly has an 'any' type because type 'Url' has no index signature.
+node_modules/url/url.js(462,20): error TS7017: Element implicitly has an 'any' type because type 'Url' has no index signature.
+node_modules/url/url.js(482,9): error TS7017: Element implicitly has an 'any' type because type 'Url' has no index signature.
+node_modules/url/url.js(508,9): error TS7017: Element implicitly has an 'any' type because type 'Url' has no index signature.
+node_modules/url/url.js(722,7): error TS7022: 'host' implicitly has type 'any' because it does not have a type annotation and is referenced directly or indirectly in its own initializer.
+node_modules/url/url.js(725,5): error TS2322: Type 'string' is not assignable to type 'RegExpExecArray | null'.
+node_modules/url/url.js(726,9): error TS2365: Operator '!==' cannot be applied to types 'RegExpExecArray | null' and 'string'.
+node_modules/url/url.js(727,19): error TS2531: Object is possibly 'null'.
+node_modules/url/url.js(727,24): error TS2339: Property 'substr' does not exist on type 'RegExpExecArray'.
+node_modules/url/url.js(729,41): error TS2531: Object is possibly 'null'.
+node_modules/url/util.js(4,22): error TS7006: Parameter 'arg' implicitly has an 'any' type.
+node_modules/url/util.js(7,22): error TS7006: Parameter 'arg' implicitly has an 'any' type.
+node_modules/url/util.js(10,20): error TS7006: Parameter 'arg' implicitly has an 'any' type.
+node_modules/url/util.js(13,31): error TS7006: Parameter 'arg' implicitly has an 'any' type.
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/typescript/lib/lib.dom.d.ts
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/typescript/lib/lib.es2016.d.ts
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/typescript/lib/lib.es2016.array.include.d.ts
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/typescript/lib/lib.es2015.d.ts
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/typescript/lib/lib.es5.d.ts
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/typescript/lib/lib.es2015.reflect.d.ts
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/typescript/lib/lib.es2015.proxy.d.ts
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/typescript/lib/lib.es2015.iterable.d.ts
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/typescript/lib/lib.es2015.symbol.d.ts
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/typescript/lib/lib.es2015.promise.d.ts
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/typescript/lib/lib.es2015.generator.d.ts
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/typescript/lib/lib.es2015.collection.d.ts
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/typescript/lib/lib.es2015.core.d.ts
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/vnode.d.ts
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/options.d.ts
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/plugin.d.ts
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/vue.d.ts
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/vue/types/index.d.ts
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/types/vue-ext-shim.d.ts
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/types/vue-jsx-shim.d.ts
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/react/global.d.ts
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/csstype/index.d.ts
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/react/index.d.ts
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/storybook__addon-links/index.d.ts
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/src/index.js
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/events/index.d.ts
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/inspector.d.ts
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/node/index.d.ts
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/punycode/punycode.js
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/util.js
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/querystring/index.js
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/url/url.js
+/home/joma/entwicklung/nodews/ts-js-include-order-issue/node_modules/@types/http-proxy/index.d.ts

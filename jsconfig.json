@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "checkJs": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "moduleResolution": "node",
+    "strict": true,
+    "target": "es6",
+    "baseUrl": ".",
+    "lib": ["es2016", "dom"],
+    "sourceMap": true,
+    "jsx": "preserve"
+  },
+  "exclude": ["dist", "node_modules", "target"],
+  //"include": ["src/**/*", "types/**/*"],
+  "include": ["types/**/*", "src/**/*"],
+  "typeAcquisition": {
+    "enable": true
+  }
+}

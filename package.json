@@ -1,0 +1,31 @@
+{
+  "name": "ts-js-include-order-issue",
+  "version": "0.0.1",
+  "description": "shows order of include in jsonfig.json effects ts outcome",
+  "main": "index.js",
+  "author": "joma74<dev-mails@gmx.net>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "tsc:validate":
+      "/bin/bash -c 'node_modules/typescript/bin/tsc --project ./jsconfig.json --noEmit true",
+    "tsc:validate1":
+      "/bin/bash -c 'node_modules/typescript/bin/tsc --project ./jsconfig.json --noEmit true --traceResolution true | tee target/tsc.trace1.log; echo $?'",
+    "tsc:listFiles1":
+      "node_modules/typescript/bin/tsc --project ./jsconfig.json --noEmit true --listFiles | tee target/tsc.list1.log; echo $?'",
+    "tsc:validate2":
+      "/bin/bash -c 'node_modules/typescript/bin/tsc --project ./jsconfig.json --noEmit true --traceResolution true | tee target/tsc.trace2.log; echo $?'",
+    "tsc:listFiles2":
+      "/bin/bash -c 'node_modules/typescript/bin/tsc --project ./jsconfig.json --noEmit true --listFiles | tee target/tsc.list2.log; echo $?'"
+  },
+  "devDependencies": {
+    "@types/http-proxy": "^1.16.2",
+    "@types/storybook__addon-links": "^3.3.0",
+    "http-proxy": "^1.17.0",
+    "typescript": "^2.9.1",
+    "url": "^0.11.0"
+  },
+  "dependencies": {
+    "vue": "^2.5.16"
+  }
+}
