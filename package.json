@@ -1,7 +1,8 @@
 {
   "name": "ts-js-include-order-issue",
   "version": "0.0.1",
-  "description": "shows order of include in jsonfig.json effects ts outcome",
+  "description":
+    "shows order of include in jsonfig.json effects ts outcome; See https://github.com/Microsoft/TypeScript/issues/24607 and https://github.com/Microsoft/TypeScript/issues/24611",
   "main": "index.js",
   "author": "joma74<dev-mails@gmx.net>",
   "license": "MIT",

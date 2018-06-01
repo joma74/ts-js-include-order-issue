@@ -13,6 +13,7 @@
     "jsx": "preserve"
   },
   "exclude": ["dist", "node_modules", "target"],
+  // https://github.com/Microsoft/TypeScript/issues/24611
   "include": ["src/**/*", "types/**/*"],
   //"include": ["types/**/*", "src/**/*"],
   "typeAcquisition": {
