@@ -10,7 +10,8 @@
     "baseUrl": ".",
     "lib": ["es2016", "dom"],
     "sourceMap": true,
-    "jsx": "preserve"
+    "jsx": "preserve",
+    "maxNodeModuleJsDepth": 0
   },
   "exclude": ["dist", "node_modules", "target"],
   // https://github.com/Microsoft/TypeScript/issues/24611
