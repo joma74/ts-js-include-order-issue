@@ -1,25 +1,19 @@
 {
   "name": "ts-js-include-order-issue",
   "version": "0.0.1",
-  "description":
-    "shows order of include in jsonfig.json effects ts outcome; See https://github.com/Microsoft/TypeScript/issues/24607 and https://github.com/Microsoft/TypeScript/issues/24611",
+  "description": "shows order of include in jsonfig.json effects ts outcome; See https://github.com/Microsoft/TypeScript/issues/24607 and https://github.com/Microsoft/TypeScript/issues/24611",
   "main": "index.js",
   "author": "joma74<dev-mails@gmx.net>",
   "license": "MIT",
   "private": false,
   "scripts": {
-    "tsc:validate":
-      "node_modules/typescript/bin/tsc --project ./jsconfig.json --noEmit true --traceResolution true",
-    "tsc:listFiles":
-      "node_modules/typescript/bin/tsc --project ./jsconfig.json --noEmit true --listFiles",
-    "tsc:validate1":
-      "/bin/bash -c 'node_modules/typescript/bin/tsc --project ./jsconfig.json --noEmit true --traceResolution true | tee target/tsc.trace1.log; echo $?'",
-    "tsc:listFiles1":
-      "/bin/bash -c 'node_modules/typescript/bin/tsc --project ./jsconfig.json --noEmit true --listFiles | tee target/tsc.list1.log; echo $?'",
-    "tsc:validate2":
-      "/bin/bash -c 'node_modules/typescript/bin/tsc --project ./jsconfig.json --noEmit true --traceResolution true | tee target/tsc.trace2.log; echo $?'",
-    "tsc:listFiles2":
-      "/bin/bash -c 'node_modules/typescript/bin/tsc --project ./jsconfig.json --noEmit true --listFiles | tee target/tsc.list2.log; echo $?'"
+    "tsc:validate": "node_modules/typescript/bin/tsc --project ./jsconfig.json --noEmit true --traceResolution true",
+    "tsc:validate:watch": "node_modules/typescript/bin/tsc --project ./jsconfig.json --noEmit true --traceResolution true --watch",
+    "tsc:listFiles": "node_modules/typescript/bin/tsc --project ./jsconfig.json --noEmit true --listFiles",
+    "tsc:validate1": "/bin/bash -c 'node_modules/typescript/bin/tsc --project ./jsconfig.json --noEmit true --traceResolution true | tee target/tsc.trace1.log; echo $?'",
+    "tsc:listFiles1": "/bin/bash -c 'node_modules/typescript/bin/tsc --project ./jsconfig.json --noEmit true --listFiles | tee target/tsc.list1.log; echo $?'",
+    "tsc:validate2": "/bin/bash -c 'node_modules/typescript/bin/tsc --project ./jsconfig.json --noEmit true --traceResolution true | tee target/tsc.trace2.log; echo $?'",
+    "tsc:listFiles2": "/bin/bash -c 'node_modules/typescript/bin/tsc --project ./jsconfig.json --noEmit true --listFiles | tee target/tsc.list2.log; echo $?'"
   },
   "devDependencies": {
     "@types/http-proxy": "^1.16.2",
