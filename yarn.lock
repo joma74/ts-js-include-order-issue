@@ -23,9 +23,9 @@
   dependencies:
     csstype "^2.2.0"
 
-"@types/storybook__addon-links@^3.3.0":
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/@types/storybook__addon-links/-/storybook__addon-links-3.3.0.tgz#750ee3422ceb88af3090bf8e4bc565ca341595a4"
+"@types/storybook__addon-links@^3.3.2":
+  version "3.3.2"
+  resolved "https://registry.yarnpkg.com/@types/storybook__addon-links/-/storybook__addon-links-3.3.2.tgz#913f6dae27903da7b1f117e9b51ca473770dba50"
   dependencies:
     "@types/react" "*"
 
