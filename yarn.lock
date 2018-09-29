@@ -73,9 +73,9 @@ requires-port@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/requires-port/-/requires-port-1.0.0.tgz#925d2601d39ac485e091cf0da5c6e694dc3dcaff"
 
-typescript@^3.0.0-dev.20180601:
-  version "3.0.0-dev.20180601"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.0.0-dev.20180601.tgz#e0d3b9a3c0378335dc69710b8b6218f8ccd43663"
+typescript@^3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.1.1.tgz#3362ba9dd1e482ebb2355b02dfe8bcd19a2c7c96"
 
 url@^0.11.0:
   version "0.11.0"
