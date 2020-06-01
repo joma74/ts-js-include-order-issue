@@ -19,7 +19,7 @@
     "@types/http-proxy": "^1.17.0",
     "@types/storybook__addon-links": "^3.3.5",
     "http-proxy": "^1.18.0",
-    "typescript": ">3.2.0-dev",
+    "typescript": ">3.9.3",
     "url": "^0.11.0"
   },
   "dependencies": {
