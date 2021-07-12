@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@types/http-proxy@^1.17.0":
-  version "1.17.0"
-  resolved "https://registry.yarnpkg.com/@types/http-proxy/-/http-proxy-1.17.0.tgz#baf82ff6aa2723fd29f90e3ba1384e665006863e"
+"@types/http-proxy@^1.17.7":
+  version "1.17.7"
+  resolved "https://registry.yarnpkg.com/@types/http-proxy/-/http-proxy-1.17.7.tgz#30ea85cc2c868368352a37f0d0d3581e24834c6f"
   dependencies:
     "@types/node" "*"
 
